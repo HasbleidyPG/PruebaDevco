@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="As a user of the system," tests="15" skipped="15" failures="0" errors="0" timestamp="2021-02-12T05:10:36" hostname="SSMEDLAPPROHP2" time="0.675">
+  <properties/>
+  <testcase name="Sending packages" classname="As a user of the system," time="0.126">
+    <skipped/>
+  </testcase>
+  <testcase name="Change language" classname="As a user of the system," time="0.014">
+    <skipped/>
+  </testcase>
+  <testcase name="Dowloand app" classname="As a user of the system," time="0.014">
+    <skipped/>
+  </testcase>
+  <testcase name="Registration on the page" classname="As a user of the system," time="0.014">
+    <skipped/>
+  </testcase>
+  <testcase name="Search activities" classname="As a user of the system," time="0.253">
+    <skipped/>
+  </testcase>
+  <testcase name="Rent Cars" classname="As a user of the system," time="0.014">
+    <skipped/>
+  </testcase>
+  <testcase name="Transfers" classname="As a user of the system," time="0.012">
+    <skipped/>
+  </testcase>
+  <testcase name="Find hotel with flight included" classname="As a user of the system," time="0.016">
+    <skipped/>
+  </testcase>
+  <testcase name="Flights with various destinations" classname="As a user of the system," time="0.012">
+    <skipped/>
+  </testcase>
+  <testcase name="Create a vacation package without information" classname="As a user of the system," time="0.015">
+    <skipped/>
+  </testcase>
+  <testcase name="Suggestion selection" classname="As a user of the system," time="0.017">
+    <skipped/>
+  </testcase>
+  <testcase name="Login without creating an account" classname="As a user of the system," time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase name="Password recovery" classname="As a user of the system," time="0.012">
+    <skipped/>
+  </testcase>
+  <testcase name="Add to Favorites" classname="As a user of the system," time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase name="recent searches" classname="As a user of the system," time="0.011">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

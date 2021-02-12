@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.devco.pruebadevco.runners.ManualScenarios" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="SSMEDLAPPROHP2" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+15 Scenarios (?[33m15 undefined?[0m)
+45 Steps (?[33m42 undefined?[0m, ?[32m3 passed?[0m)
+0m1,027s
+
+
+You can implement missing steps with the snippets below:
+
+@Given("^the user is on the page$")
+public void theUserIsOnThePage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+
+@When("^the user types all the fields$")
+public void theUserTypesAllTheFields() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the system should show the available options$")
+public void theSystemShouldShowTheAvailableOptions() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^the language is changed$")
+public void theLanguageIsChanged() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the system should change the language on the whole page$")
+public void theSystemShouldChangeTheLanguageOnTheWholePage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^they want to download the App and fill out the information$")
+public void theyWantToDownloadTheAppAndFillOutTheInformation() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the system must allow the download of the app$")
+public void theSystemMustAllowTheDownloadOfTheApp() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^they register on the page$")
+public void theyRegisterOnThePage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the system should allow them to log in$")
+public void theSystemShouldAllowThemToLogIn() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^entering the information to search for activities to be carried out$")
+public void enteringTheInformationToSearchForActivitiesToBeCarriedOut() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^he enters the information to rent a car$")
+public void heEntersTheInformationToRentACar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^he enters the car rental information for transfer$")
+public void heEntersTheCarRentalInformationForTransfer() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Given("^that the user is on the page$")
+public void thatTheUserIsOnThePage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^making the query for hotels with flight included$")
+public void makingTheQueryForHotelsWithFlightIncluded() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^he is going to make the reservation with several flights$")
+public void heIsGoingToMakeTheReservationWithSeveralFlights() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^he must validate that all the fields are filled$")
+public void heMustValidateThatAllTheFieldsAreFilled() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Given("^the user is in the packages option$")
+public void theUserIsInThePackagesOption() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^all the fields are left blank$")
+public void allTheFieldsAreLeftBlank() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^it must be validated that it does not allow the search$")
+public void itMustBeValidatedThatItDoesNotAllowTheSearch() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Given("^the user is in any option on the page$")
+public void theUserIsInAnyOptionOnThePage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^he selects a suggestion$")
+public void heSelectsASuggestion() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^it will be validated that all the fields are filled with the information of the suggestion$")
+public void itWillBeValidatedThatAllTheFieldsAreFilledWithTheInformationOfTheSuggestion() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^logging in via social media$")
+public void loggingInViaSocialMedia() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^you must allow login$")
+public void youMustAllowLogin() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Given("^the user is in the login option of the page$")
+public void theUserIsInTheLoginOptionOfThePage() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^password recovery is required$")
+public void passwordRecoveryIsRequired() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the password should be changed$")
+public void thePasswordShouldBeChanged() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^adding to favorites$")
+public void addingToFavorites() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the list of added items should be displayed$")
+public void theListOfAddedItemsShouldBeDisplayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^it is required to see the history of visits$")
+public void itIsRequiredToSeeTheHistoryOfVisits() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^the list with the searches carried out previously should be seen$")
+public void theListWithTheSearchesCarriedOutPreviouslyShouldBeSeen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
